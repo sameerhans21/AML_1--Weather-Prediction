@@ -1,0 +1,13 @@
+85/100
+
+Very good job!! I enjoyed reading your report, which is to the point, clearly written, and coherent.
+
+There are some improvements that can be done though. Here's a couple of hints:
+
+* Section 2, point b): to overcome the presence of NaNs you decided to fill in with the column average. Is this a sensible approach? Why did you chose this and why do you believe it is going to work? There is no discussion about your choice.
+
+* Section 3, point 4): you say you computed the MI between features and target. What is the outcome? Did this allow to select features instead of considering them all? Some more discussion would have been in order. Overall, points 3, 4 and 5 could have been developed a bit more, such that I -- as a reader -- could have a grasp on which important features you ended up with, and why, in your opinion.
+
+So, overall, I think the two criteria where your grade suffered the most are the "presentation quality", for lack of some in depth discussions, and "serendipity", as your approach is standard (which is OK, don't get me wrong!)
+
+Very good job again!
